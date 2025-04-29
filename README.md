@@ -8,6 +8,8 @@
 **Last Updated:** April 2025  
 
 ---
+![Project screenshot](https://raw.githubusercontent.com/phyulwin/ML-Image-Prediction-Tagging/main/assets/pg_ss.jpg)
+
 ## Demo Video
 
 [Youtube Link](https://youtu.be/QIf7X2DXDBE?si=aH_GTB3ARBp735x8)
